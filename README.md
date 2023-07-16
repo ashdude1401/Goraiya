@@ -1,3 +1,4 @@
-# goraiya
 
-A new Flutter project.
+# Goraiya
+A twitter like app made with flutter  , with some additional features 
+
